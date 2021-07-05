@@ -10,6 +10,19 @@
 a.icon{
     text-decoration: none;
 }
-    
+
+@media (min-width: 1200px){
+    .head-img{
+        margin-top: -15rem;
+        margin-bottom: -4rem;
+    }
+}
+@media (min-width: 1400px){
+    .fourchette{
+        height: 27vh;
+        width: 30vh;
+        margin: 30px;
+    }
+}
 
 
