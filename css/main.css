@@ -16,3 +16,8 @@ body{
     font-family: courgette;
 }
 
+::selection{
+    color:white;
+    background-color: gray ;
+}
+
